@@ -18,7 +18,7 @@ int main() {
   int tamano;
   int multiplo;
 
-  cout << "Ingrese el tamaño del arreglo: ";
+  cout << "Ingrese el tamanio del arreglo: ";
   cin >> tamano;
 
   cout << "Ingrese el multiplo: ";
